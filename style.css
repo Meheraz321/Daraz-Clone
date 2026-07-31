@@ -30,6 +30,10 @@
     background-color: #bacad5;
 }
 
+.nav-item{
+    font-weight: bold;
+}
+
 
 .product-card {
     background-color: #ffffff !important;
@@ -77,4 +81,11 @@
     border-color: #f95f21;
     color: #ffffff;
     box-shadow: 0 4px 10px rgba(249, 95, 33, 0.3);
+}
+
+.logo {
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+    padding: 4px;
 }
