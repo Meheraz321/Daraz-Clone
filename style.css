@@ -30,6 +30,10 @@
     background-color: #bacad5;
 }
 
+.navbar-brand{
+    font-weight: bold;
+}
+
 .nav-item{
     font-weight: bold;
 }
